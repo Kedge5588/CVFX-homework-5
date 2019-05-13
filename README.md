@@ -40,6 +40,7 @@ Stop Motion的部份我們決定拍不同角度的沉思者
 ### image alignment results
 ![](https://i.imgur.com/aioEz60.png)
 ![](https://i.imgur.com/6VM5l7f.png)
+
 在align的時候我們將所有圖片段同一張圖做align,
 也就是最中間的那一張圖，這樣整個相機的視角才會一致
 如此一來就能去除在拍攝過程中的晃動
