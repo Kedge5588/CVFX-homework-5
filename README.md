@@ -33,6 +33,7 @@ motion parallax(圖3+圖2)：
 ### multi-view images
 
 ![](https://i.imgur.com/81vlFAG.png)
+
 Stop Motion的部份我們決定拍不同角度的沉思者
 以上是我們由右往左拍的結果
 
@@ -45,9 +46,11 @@ Stop Motion的部份我們決定拍不同角度的沉思者
 
 ### multi-view 3D visual effects
 original:
+
 ![](https://i.imgur.com/OAFsLGH.gif)
 
 stop motion:
+
 ![](https://i.imgur.com/JnUa8gN.gif)
 
 我們可以明顯看得出來align前整個影片看起來非常地晃，
@@ -57,7 +60,6 @@ stop motion:
 ## 3. Live photo
 ### multi-view images
 ![](https://i.imgur.com/PpbgXI0.jpg)
-
 
 Live photo主要為拍攝國旗飛揚，但從不同的照片中，可以發現因為不同的時間，國旗飛揚的面積大小不同，每張拍攝角度也稍有偏差。
 
