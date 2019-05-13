@@ -4,6 +4,7 @@
 先在校門口拍了張照片，然後往旁邊走一步再拍一張。
 
 圖1：
+<img src="https://i.imgur.com/T4qfsBG.jpg" width="300">
 ![](https://i.imgur.com/T4qfsBG.jpg =300x)
 圖2：
 ![](https://i.imgur.com/ShcH9uM.jpg =300x)
