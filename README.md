@@ -4,16 +4,18 @@
 先在校門口拍了張照片，然後往旁邊走一步再拍一張。
 
 圖1：
+
 <img src="https://i.imgur.com/T4qfsBG.jpg" width="300">
-![](https://i.imgur.com/T4qfsBG.jpg =300x)
+
 圖2：
-![](https://i.imgur.com/ShcH9uM.jpg =300x)
+
+<img src="https://i.imgur.com/ShcH9uM.jpg" width="300">
 
 ### image alignment results
 為了使照片裡的國立清華大學盡量保持不動，所以我們只使用了照片中間部分來找match points，然後再把得到的homogrophy matrix對整張圖片進行處理，最後得到這張圖3。
 
 圖3：
-![](https://i.imgur.com/EZDo0IF.jpg =300x)
+<img src="https://i.imgur.com/EZDo0IF.jpg" width="300">
 
 ### multi-view 3D visual effects
 
