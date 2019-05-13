@@ -22,11 +22,11 @@
 
 origin(圖1+圖2)：
 
-![](https://github.com/Kedge5588/CVFX-homework-5/blob/master/doorwayG1.gif)
+<img src="https://github.com/Kedge5588/CVFX-homework-5/blob/master/doorwayG1.gif" width="300">
 
 motion parallax(圖3+圖2)：
 
-![](https://github.com/Kedge5588/CVFX-homework-5/blob/master/doorwayG2.gif)
+<img src="https://github.com/Kedge5588/CVFX-homework-5/blob/master/doorwayG2.gif" width="300">
 
 
 ## 2. Stop motion
