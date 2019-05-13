@@ -48,11 +48,11 @@ Stop Motion的部份我們決定拍不同角度的沉思者
 ### multi-view 3D visual effects
 original:
 
-![](https://i.imgur.com/OAFsLGH.gif)
+<img src="https://github.com/Kedge5588/CVFX-homework-5/blob/master/Lpid6gA.gif">
 
 stop motion:
 
-![](https://i.imgur.com/JnUa8gN.gif)
+<img src="https://github.com/Kedge5588/CVFX-homework-5/blob/master/Lpid6gA.gif">
 
 我們可以明顯看得出來align前整個影片看起來非常地晃，
 可是align就變得非常滑順，有stop motion的感覺。
