@@ -83,7 +83,7 @@ Live photo主要為拍攝國旗飛揚，但從不同的照片中，可以發現�
 
 * Live Photo
 
-![](https://i.imgur.com/jx8N8mx.gif)
+<img src="https://github.com/Kedge5588/CVFX-homework-5/blob/master/live.gif">
 
 由於align以後，外圍會出現變形的情況，因此我們將align後的圖片，去掉變形的部分。
 
@@ -102,6 +102,7 @@ Live photo主要為拍攝國旗飛揚，但從不同的照片中，可以發現�
 * Live Photo
 為了更凸顯國旗飛揚的效果，我們加上超人，使觀眾的目光都聚集在超人上，減少對其他景物的注意，並以國旗作為超人的披風，成為超人飛翔的Live Photo。
 
+<img src="https://github.com/Kedge5588/CVFX-homework-5/blob/master/superman_crop.gif">
 ![](https://i.imgur.com/b2lrYXu.gif)
 
 
