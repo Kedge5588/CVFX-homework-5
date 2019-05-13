@@ -79,7 +79,7 @@ Live photo主要為拍攝國旗飛揚，但從不同的照片中，可以發現�
 
 * Original
 
-<img src="https://github.com/Kedge5588/CVFX-homework-5/blob/master/live.gif">
+<img src="https://github.com/Kedge5588/CVFX-homework-5/blob/master/Lpid6gA.gif">
 
 * Live Photo
 
