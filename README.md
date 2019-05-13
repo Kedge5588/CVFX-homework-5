@@ -15,13 +15,17 @@
 為了使照片裡的國立清華大學盡量保持不動，所以我們只使用了照片中間部分來找match points，然後再把得到的homogrophy matrix對整張圖片進行處理，最後得到這張圖3。
 
 圖3：
+
 <img src="https://i.imgur.com/EZDo0IF.jpg" width="300">
 
 ### multi-view 3D visual effects
 
 origin(圖1+圖2)：
+
 ![](https://i.imgur.com/oemIe4M.gif =300x)
+
 motion parallax(圖3+圖2)：
+
 ![](https://i.imgur.com/b4VOxkP.gif =300x)
 
 
@@ -89,10 +93,12 @@ Live photo主要為拍攝國旗飛揚，但從不同的照片中，可以發現�
 * Stop-motion
 我們在沉思者上面加了濾鏡，讓整個沉思者的色調變暗，
 營造出更有沉思的氣氛。
+
 ![](https://i.imgur.com/sP7fa9Q.gif)
 
 * Live Photo
 為了更凸顯國旗飛揚的效果，我們加上超人，使觀眾的目光都聚集在超人上，減少對其他景物的注意，並以國旗作為超人的披風，成為超人飛翔的Live Photo。
+
 ![](https://i.imgur.com/b2lrYXu.gif)
 
 
